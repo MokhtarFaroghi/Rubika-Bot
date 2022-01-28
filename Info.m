@@ -1,4 +1,4 @@
-Creted By : Mokhtar Farooghi
+Created By : Mokhtar Farooghi
 
 My Rubika Id : @CodeinDataSupport
 
